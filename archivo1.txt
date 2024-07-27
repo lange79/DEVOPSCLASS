@@ -1,4 +1,2 @@
-Este es el archivo 1.
+Este es el archivo 2
 
-
-Lo modificamos rama feature.
